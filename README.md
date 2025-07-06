@@ -10,14 +10,14 @@
 ###
 <!--
 colocar gif
--->
+--> 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizaaster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElizaAster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elizaaster&radius=10&theme=redical&area=true&order=5&point=00FFFF&bg_color=000000&line=FFFFFF&hide_title=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElizaAster&radius=10&theme=redical&area=true&order=5&point=00FFFF&bg_color=000000&line=FFFFFF&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
