@@ -8,16 +8,14 @@
   <br> Thank you for visiting my profile! :) </p>
 
 ###
-<!--
-colocar gif
---> 
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElizaAster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+
+  <img alt="Liza-gif" height="80" width="180" src="https://media.tenor.com/a3vNOSGuwQ4AAAAM/maltese.gif" />
+  </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElizaAster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElizaAster&radius=10&theme=redical&area=true&order=5&point=00FFFF&bg_color=000000&line=FFFFFF&hide_title=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElizaAster&radius=10&theme=redical&area=true&order=5&point=00FFFF&bg_color=000000&line=FFFFFF&hide_title=true" height="150" alt="activity-graph graph" />
 </div>
 
 ###
@@ -37,14 +35,11 @@ colocar gif
 
 ###
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/elizaaster/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
+<p align="right">
+  <a href="https://www.linkedin.com/in/elizaaster/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:elizaaster@outlook.com"><img src="https://img.shields.io/badge/-Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
+  <a href="https://www.instagram.com/elizaaster.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ###
 
