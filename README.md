@@ -1,4 +1,3 @@
-###
 
 <h1 align="left">Hello, Friends!</h1>
 
@@ -8,6 +7,7 @@
   <br> Thank you for visiting my profile! :) </p>
 
 ###
+
 <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ElizaAster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
@@ -25,8 +25,8 @@
   <img align="right" alt="Liza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elizaaster/elizaaster/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elizaaster/elizaaster/output/pacman-contribution-graph.svg">
