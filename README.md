@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ElizaAster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
-  <img alt="Liza-gif" height="120" width="180" src="https://media.tenor.com/a3vNOSGuwQ4AAAAM/maltese.gif" />
+  <img alt="Liza-gif" height="200" width="180" src="https://media.tenor.com/a3vNOSGuwQ4AAAAM/maltese.gif" />
   </div>
 
 <div align="left">
