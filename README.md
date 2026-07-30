@@ -1,4 +1,4 @@
-## Hello, world! I'm Eliza Áster <img src="[ezgif-48a1a10c0d366f0c.webm](https://github.com/user-attachments/assets/7a447b5e-708d-4ea6-9be9-96fbbd11b27c)" alt="Liza-gif" height="40">
+## Hello, world! I'm Eliza Áster <img src="https://github.com/user-attachments/assets/abdc708a-d87e-448b-8931-ddf30fb2d7bb" alt="Liza-gif" height="40" align="center">
 
 **Systems Analyst & Tech Innovator | ADS Student @ UniCesumar**
 
