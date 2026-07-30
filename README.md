@@ -1,59 +1,58 @@
+## Hello, world! I'm Eliza Áster <img src="[ezgif-48a1a10c0d366f0c.webm](https://github.com/user-attachments/assets/7a447b5e-708d-4ea6-9be9-96fbbd11b27c)" alt="Liza-gif" height="40">
 
-<h1 align="left">Hello, Friends!</h1>
+**Systems Analyst & Tech Innovator | ADS Student @ UniCesumar**
 
-<p align="left">
-  I am pursuing a Bachelor's degree in Technology in Systems Analysis and Development, seeking to improve my knowledge and skills in the field every day.
-  <br> Iam open to receiving constructive criticism, tips, and help in this process.
-  <br> Thank you for visiting my profile! :) </p>
+> *Analisando sistemas, automatizando processos e descobrindo a lógica por trás dos desafios corporativos.*
 
-###
+---
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElizaAster&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+### Sobre Mim
 
-  <img alt="Liza-gif" height="200" width="180" src="https://media.tenor.com/a3vNOSGuwQ4AAAAM/maltese.gif" />
-  </div>
+Com bagagem prática em sustentação de sistemas corporativos (SAP ERP GUI/Fiori) e gestão de acessos industriais, transicionei para a área de TI através do desenvolvimento de automações (VBA/SQL) que geraram eficiência operacional na Natulab.
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElizaAster&radius=10&theme=redical&area=true&order=5&point=00FFFF&bg_color=000000&line=FFFFFF&hide_title=true" height="150" alt="activity-graph graph" />
-</div>
+Atualmente, curso Análise e Desenvolvimento de Sistemas na UniCesumar, desenvolvendo projetos voltados para Engenharia de Software, Arquitetura de Sistemas e Banco de Dados. Buscar a melhoria contínua e soluções eficientes é o que me move diariamente.
 
-###
+---
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Liza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Liza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### Meu Portfólio Técnico
 
-###
+> 🏗️ Em construção - *Uma demonstração ao vivo dos meus principais projetos.*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elizaaster/elizaaster/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elizaaster/elizaaster/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elizaaster/elizaaster/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 👨‍💻 Tecnologias e Ferramentas
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/elizaaster/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:elizaaster@outlook.com"><img src="https://img.shields.io/badge/-Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
-  <a href="https://www.instagram.com/elizaaster.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+| Categoria | Ícones / Ferramentas |
+| :--- | :--- |
+| **Linguagens** | `VBA` `SQL` `JavaScript` `Python` `C++` |
+| **Databases** | `PostgreSQL` `SQLite` |
+| **ERP & Tools** | `SAP GUI/Fiori` `Git` |
+| **Nuvem & IAM**| `Microsoft Azure` `iDSecure Cloud` |
+---
+
+### 📌 Projetos em Destaque (Pinned)
+
+> 🏗️ Em construção
+
+---
+
+### 🎨 O Maze das Minhas Contribuições
+
+<p align="center">
+  <img src="MANTENHA_A_URL_DO_SEU_MAZE_AQUI" width="100%">
 </p>
 
-###
+---
 
-<!--
-**ElizaAster/ElizaAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✉️ Vamos nos conectar?
+Se você gostou da minha jornada técnico-operacional e quer conversar sobre tecnologia ou oportunidades, fique à vontade para me adicionar!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/elizaaster/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:elizaaster@outlook.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+<a href="https://github.com/elizaaster">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
