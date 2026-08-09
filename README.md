@@ -2,41 +2,43 @@
 
 **Systems Analyst & Tech Innovator | ADS Student @ UniCesumar**
 
-> *Analisando sistemas, automatizando processos e descobrindo a lógica por trás dos desafios corporativos.*
+> *Analyzing systems, automating processes, and figuring out the logic behind corporate challenges.*
 
 ---
 
-### Sobre Mim
+### About Me
 
-Com bagagem prática em sustentação de sistemas corporativos (SAP ERP GUI/Fiori) e gestão de acessos industriais, transicionei para a área de TI através do desenvolvimento de automações (VBA/SQL) que geraram eficiência operacional na Natulab.
-
-Atualmente, curso Análise e Desenvolvimento de Sistemas na UniCesumar, desenvolvendo projetos voltados para Engenharia de Software, Arquitetura de Sistemas e Banco de Dados. Buscar a melhoria contínua e soluções eficientes é o que me move diariamente.
+With practical experience in supporting corporate systems (SAP ERP GUI/Fiori) and managing industrial access, I transitioned to the IT field through the development of automations (VBA/SQL) that generated operational efficiency at Natulab.
+Currently, I have a degree in Systems Analysis and Development from UniCesumar, working on projects focused on Software Engineering, Systems Architecture, and Databases. 
+Striving for continuous improvement and efficient solutions is what drives me every day.
 
 ---
 
 ### Meu Portfólio Técnico
 
-> 🏗️ Em construção - *Uma demonstração ao vivo dos meus principais projetos.*
+> 🏗️ Under construction - *A live demo of my main projects.*
 
 ---
 
-### 👨‍💻 Tecnologias e Ferramentas
+### 👨‍💻 Technologies and Tools
 
-| Categoria | Ícones / Ferramentas |
+| Category | Tools |
 | :--- | :--- |
-| **Linguagens** | `VBA` `SQL` `JavaScript` `Python` `C++` |
+| **Languages** | `VBA` `SQL` `JavaScript` `Python` `C++` |
 | **Databases** | `PostgreSQL` `SQLite` |
-| **ERP & Tools** | `SAP GUI/Fiori` `Git` |
-| **Nuvem & IAM**| `Microsoft Azure` `iDSecure Cloud` |
+| **Cloud** | `Microssoft Azure` |
+| **Tools** | `Git` |
+| **ERP** | `SAP GUI/Fiori` |
+| **IAM**| `iDSecure Cloud` |
 ---
 
-### 📌 Projetos em Destaque (Pinned)
+### 📌Featured Projects (Pinned)
 
-> 🏗️ Em construção
+> 🏗️ Under construction
 
 ---
 
-### 🎨 O Maze das Minhas Contribuições
+### 🎨The Maze of My Contributions
 
 <p align="center">
   <img src="MANTENHA_A_URL_DO_SEU_MAZE_AQUI" width="100%">
@@ -44,8 +46,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na UniCesumar, desenvol
 
 ---
 
-### ✉️ Vamos nos conectar?
-Se você gostou da minha jornada técnico-operacional e quer conversar sobre tecnologia ou oportunidades, fique à vontade para me adicionar!
+### ✉️ Shall we connect?
+If you liked my technical-operational journey and want to talk about technology or opportunities, feel free to add me!
 
 <a href="https://www.linkedin.com/in/elizaaster/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
