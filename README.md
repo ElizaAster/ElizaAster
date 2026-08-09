@@ -44,7 +44,7 @@ Striving for continuous improvement and efficient solutions is what drives me ev
 ### 🎨The Maze of My Contributions
 
 <p align="center">
-  <img src="MANTENHA_A_URL_DO_SEU_MAZE_AQUI" width="100%">
+  <img src="" width="100%">
 </p>
 
 ---
