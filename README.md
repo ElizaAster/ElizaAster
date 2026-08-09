@@ -22,14 +22,17 @@ Striving for continuous improvement and efficient solutions is what drives me ev
 
 ### 👨‍💻 Technologies and Tools
 
-| Category | Tools |
+| Category | Technologies and Tools |
 | :--- | :--- |
-| **Languages** | `VBA` `SQL` `JavaScript` `Python` `C++` |
-| **Databases** | `PostgreSQL` `SQLite` |
-| **Cloud** | `Microssoft Azure` |
-| **Tools** | `Git` |
-| **ERP** | `SAP GUI/Fiori` |
-| **IAM**| `iDSecure Cloud` |
+| **Web Frontend** | `HTML5` `CSS3` |
+| **Programming Languages** | `JavaScript` `T-SQL` `Python (Learning)` `C++ (Learning)` `VBA` |
+| **System Integration** | `REST APIs` `OData` |
+| **Databases** | `SQL Server` `SAP Datasphere` `PostgreSQL` `SQLite` |
+| **Cloud Infrastructure** | `Microsoft Azure` |
+| **Enterprise Systems** | `SAP S/4HANA (GUI and Fiori)` `Bling` |
+| **Systems Management** | `FocoPDV` `Winner` `Licitasys` `SeSuite (SoftExpert)` `Lincros` `Cogtive` |
+| **IAM** | `Identity & Access Management (IAM)` `iDSecure Cloud` |
+| **Version Control** | `Git` `GitHub` |
 ---
 
 ### 📌Featured Projects (Pinned)
