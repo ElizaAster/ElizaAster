@@ -1,6 +1,6 @@
 ## Hello, world! I'm Eliza Áster <img src="https://github.com/user-attachments/assets/abdc708a-d87e-448b-8931-ddf30fb2d7bb" alt="Liza-gif" height="40" align="center">
 
-**Systems Analyst & Tech Innovator | ADS Student @ UniCesumar**
+**Systems Analyst & Tech Innovator | Graduated in ADS at  @ UniCesumar**
 
 > *Analyzing systems, automating processes, and figuring out the logic behind corporate challenges.*
 
@@ -14,8 +14,7 @@ Striving for continuous improvement and efficient solutions is what drives me ev
 
 ---
 
-### Meu Portfólio Técnico
-
+### My Technical Portfolio
 > 🏗️ Under construction - *A live demo of my main projects.*
 
 ---
@@ -44,12 +43,6 @@ Striving for continuous improvement and efficient solutions is what drives me ev
 ### ✉️ Shall we connect?
 If you liked my technical-operational journey and want to talk about technology or opportunities, feel free to add me!
 
-<a href="https://www.linkedin.com/in/elizaaster/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:elizaaster@outlook.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-<a href="https://github.com/elizaaster">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/elizaaster/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:elizaaster@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://github.com/elizaaster"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
