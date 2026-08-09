@@ -41,14 +41,6 @@ Striving for continuous improvement and efficient solutions is what drives me ev
 
 ---
 
-### 🎨The Maze of My Contributions
-
-<p align="center">
-  <img src="" width="100%">
-</p>
-
----
-
 ### ✉️ Shall we connect?
 If you liked my technical-operational journey and want to talk about technology or opportunities, feel free to add me!
 
